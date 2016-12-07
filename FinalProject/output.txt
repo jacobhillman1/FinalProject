@@ -1,0 +1,24 @@
+The overall score of the directory was 3.807
+
+Below are the details for all files with a score above 40: 
+
+------------------------------------------------------------------------
+For file "variablemetric.cpp", the file score was 41.6667. The details are shown below:
+------------------------------------------------------------------------
+There were 0 variables uninitialized out of 0 variables declared.
+    Metric 1 Score: -1
+
+The average length of a variable is -nan and the number of variables
+containing numbers is 0. The total number of variables in the file is 0.
+    Metric 2 Score: -1
+
+There was no incorrect indentation in the file.
+    Metric 3 Score: 0
+
+The Average number of characters for each comment is 5.
+    Metric 4 Score: 100
+
+There are 5 user-defined classes used in this file.
+    Metric 5 Score: 25
+
+
