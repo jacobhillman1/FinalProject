@@ -6,8 +6,7 @@ This was my Data Structures final project for Fall 2016. It was produced in coll
 ## The Metrics
 * Initialized Variables
 * Variable Names
-*(I personally produced the following metrics)*
-* **In-Line Comments
+* In-Line Comments
 * Indentation
-* Class Coupling**
+* Class Coupling
 
