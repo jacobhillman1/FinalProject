@@ -4,9 +4,9 @@ This program analyzes C++ source code and assigns it a score based off its accor
 This was my Data Structures final project for Fall 2016. It was produced in collaboration with one other student (Will Kastner). 
 
 ## The Metrics
-* Initialized Variables
+* Variable Initialization
 * Variable Names
-* In-Line Comments
+* In-Line Comment Length
 * Indentation
 * Class Coupling
 
